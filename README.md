@@ -1,2 +1,2 @@
-Rising Waters: A Machine Learning Approach to Flood Prediction
-An industry-grade, end-to-end Machine Learning web application designed to predict localized flooding risk based on climate, rainfall, and hydrology metrics. The project features automated exploratory data analysis, hyperparameter tuning, local database logging, CSV upload for bulk predictions, REST API interface, and dynamic PDF report exporting.
+🔗 DEMO VIDEO:
+https://drive.google.com/file/d/1utpiAV4NmF8G5Fr1ZjW7f9fvFhtCJO4a/view?usp=drivesdk
